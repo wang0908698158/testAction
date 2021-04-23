@@ -1,2 +1,2 @@
 name: Rollback Release
-  uses: author/action-rollback@1.0.0
+uses: author/action-rollback@1.0.0
