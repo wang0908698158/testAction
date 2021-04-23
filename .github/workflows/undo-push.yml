@@ -1,4 +1,4 @@
-- name: Rollback Release
+name: Rollback Release
   if: success()
   uses: author/action-rollback@stable
   with:
